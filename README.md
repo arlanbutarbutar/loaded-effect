@@ -14,3 +14,6 @@ Kamu bisa edit bagian script JS untuk melakukan redirect dan membuat object lain
           ...
       });
     </script>
+
+Tampilan animasi loading
+<img src="https://i.ibb.co/0y4GSSx/Screenshot-2.png" alt="Loaded">
