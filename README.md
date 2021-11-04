@@ -6,14 +6,14 @@ Kamu bisa edit bagian script JS untuk melakukan redirect dan membuat object lain
 
 🖌custom code
 
-  // JavaScript
-  👉<script>
-      var loader = document.getElementById('loader');
-        window.addEventListener('load', function(){
-          loader.style.display="none";
-          ...
-      });
-    </script>
+  // JavaScript <br/>
+  👉<script> <br/>
+      var loader = document.getElementById('loader'); <br/>
+        window.addEventListener('load', function(){ <br/>
+          loader.style.display="none"; <br/>
+          ... <br/>
+      }); <br/>
+    </script> <br/>
 
-Tampilan animasi loading
+Tampilan animasi loading <br/>
 <img src="https://i.ibb.co/0y4GSSx/Screenshot-2.png" alt="Loaded">
